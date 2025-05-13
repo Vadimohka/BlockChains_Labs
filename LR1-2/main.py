@@ -1,6 +1,3 @@
-# blockchain_gui.py
-# Версия 2.1 — исправлена ошибка Tcl_AsyncDelete
-
 import hashlib
 import json
 import time
